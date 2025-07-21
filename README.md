@@ -60,5 +60,6 @@ A smart and user-centric web application that helps users design personalized we
 
 ## Connect
 
-- GitHub: [tanishhhk](https://github.com/tanishhhk)  
+- GitHub: [tanishhhk](https://github.com/tanishhhk)
+- LinkedIn: [tanishhhk](https://www.linkedin.com/in/tanishhhk/)
 - Instagram: [@_tanishhhkk](https://www.instagram.com/_tanishhhkk/)
