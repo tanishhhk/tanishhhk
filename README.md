@@ -42,8 +42,6 @@ A smart and user-centric web application that helps users design personalized we
 
 - Cloud Computing (AWS, basics of Azure)  
 - Cybersecurity (Offensive & Defensive Concepts)  
-- Competitive Programming (LeetCode, HackerRank)  
-- JavaScript Design Patterns & React Ecosystem  
 
 ---
 
@@ -62,4 +60,6 @@ A smart and user-centric web application that helps users design personalized we
 
 - GitHub: [tanishhhk](https://github.com/tanishhhk)
 - LinkedIn: [tanishhhk](https://www.linkedin.com/in/tanishhhk/)
+- X: [@tjneedspeace](https://x.com/tjneedspeace)
 - Instagram: [@_tanishhhkk](https://www.instagram.com/_tanishhhkk/)
+
