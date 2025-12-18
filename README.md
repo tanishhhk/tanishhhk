@@ -19,8 +19,8 @@ Currently focused on building scalable systems and deepening my understanding of
 `NumPy` · `pandas` · `matplotlib` · `seaborn` · `scikit-learn` · `TensorFlow`
 
 ###  Web Development
-- **Core**: HTML, CSS, JavaScript  
-- **Learning**: React.js, TypeScript
+- **Core**: HTML, CSS, JavaScript , React.js,
+- **Learning**: TypeScript , Flask
 
 ### ⚙️ Tools & Platforms
 `Git & GitHub` · `Visual Studio Code`
