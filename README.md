@@ -29,10 +29,6 @@ Currently focused on building scalable systems and deepening my understanding of
 
 ## Currently Working On
 
-### 🔹 Synthetic Medical Data Generation using Diffusion Models
-A research-driven project to create reliable and privacy-preserving synthetic healthcare data using diffusion models.  
-Focus: Safe AI development for sensitive domains. Involves end-to-end model development and academic publication.
-
 ### 🔹 DayVerse: Personalized AI Timetable & Habit Builder
 A smart, user-centric web app that helps users design weekly schedules with AI.  
 Includes goal tracking (e.g., content posting, reading), community suggestions, and visual reminders.
