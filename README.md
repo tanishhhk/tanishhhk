@@ -1,70 +1,78 @@
 <h1 align="center">Tanishk Jain</h1>
-<p align="center"><em>Developing Skills in AI, Web, and Cloud | Committed to Growth Through Code</em></p>
+<p align="center"><em>AI/ML Engineer in Progress | Web + Cloud Enthusiast</em></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer+in+Progress;Computer+Vision+%7C+Web+Development+%7C+Cloud;Building+Scalable+Systems+Through+Code" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tanishhhk.tanishhhk" />
+</p>
 
 ---
 
 ## About Me
 
-I'm an engineering student passionate about solving problems through code, with a growing foundation in **Machine Learning**, **Cloud Computing**, and **Full-Stack Development**.  
-Currently focused on building scalable systems and deepening my understanding of core technical domains.
+I'm an engineering student passionate about solving real world problems through code, with growing expertise in Machine Learning, Cloud Computing, and Full Stack Development.
+
+Currently focused on:
+- Computer Vision & Deep Learning  
+- Scalable ML Pipelines  
+- Web Development & Cloud Infrastructure  
 
 ---
 
-## Technical Skills
-
-### 🧾 Programming Languages
-`Python` · `C++` · `Java` · `HTML` · `CSS` · `JavaScript`
-
-###  Machine Learning Libraries & Tools
-`NumPy` · `pandas` · `matplotlib` · `seaborn` · `scikit-learn` · `TensorFlow`
-
-###  Web Development
-- **Core**: HTML, CSS, JavaScript , React.js,
-- **Learning**: TypeScript , Flask
-
-### ⚙️ Tools & Platforms
-`Git & GitHub` · `Visual Studio Code`
-
----
-
-## Currently Working On
-
-### 🔹 Artery Vein Segmentation Model using Fundus Images
-
-- Developing a pipeline and hybrid architecture to execute highly precise image segmentation using Multi Modal CNN.
----
-
-## Areas of Exploration
-
--  Cloud Computing (AWS, basics of Azure)  
--  Cybersecurity (Offensive & Defensive Concepts)
-
----
-
-## 🎯 Goals
-
-- Build & deploy production-level ML pipelines  
-- Contribute to open-source AI/full-stack projects  
-- Gain hands-on experience with Docker & GitHub Actions  
-- Strengthen DSA and system design  
-- Learn advanced frontend/backend (Next.js, APIs)  
-- Explore cybersecurity and ethical hacking practices
-
----
-
-## 📊 GitHub Overview
+## Tech Stack
 
 <p align="center">
-  <a href="https://github.com/tanishhhk">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishhhk&theme=github_dark" alt="GitHub Profile Summary" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,tensorflow,flask,git,vscode,aws" />
 </p>
-
-![](https://komarev.com/ghpvc/?username=tanishhhk)
 
 ---
 
-## 🔗 Connect with Me
+## Current Project
+
+### Artery Vein Segmentation using Fundus Images
+
+Developing a hybrid deep learning architecture for highly precise retinal vessel segmentation using multimodal imaging.
+
+Focus areas:
+- Medical Image Processing  
+- CNN Architectures  
+- Segmentation Optimization  
+- Multi Modal Learning  
+
+---
+
+## Goals
+
+- Build production level ML systems  
+- Contribute to AI open source projects  
+- Master DSA and System Design  
+- Learn advanced backend and DevOps  
+- Explore cybersecurity  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanishhhk&theme=tokyonight" />
+</p>
+
+---
+
+## Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishhhk&theme=github_dark" />
+</p>
+
+---
+
+
+## Let's Connect
+
 <p align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishhhk)
@@ -73,4 +81,3 @@ Currently focused on building scalable systems and deepening my understanding of
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_tanishhhkk/)
   
 </p>
-
