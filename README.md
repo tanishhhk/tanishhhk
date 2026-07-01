@@ -61,6 +61,8 @@ Includes goal tracking (e.g., content posting, reading), community suggestions, 
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=tanishhhk)
+
 ---
 
 ## 🔗 Connect with Me
