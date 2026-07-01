@@ -29,10 +29,9 @@ Currently focused on building scalable systems and deepening my understanding of
 
 ## Currently Working On
 
-### 🔹 DayVerse: Personalized AI Timetable & Habit Builder
-A smart, user-centric web app that helps users design weekly schedules with AI.  
-Includes goal tracking (e.g., content posting, reading), community suggestions, and visual reminders.
+### 🔹 Artery Vein Segmentation Model using Fundus Images
 
+- Developing a pipeline and hybrid architecture to execute highly precise image segmentation using Multi Modal CNN.
 ---
 
 ## Areas of Exploration
