@@ -9,8 +9,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tanishhhk.tanishhhk" />
 </p>
 
----
-
 ## About Me
 
 I'm an engineering student passionate about solving real world problems through code, with growing expertise in Machine Learning, Cloud Computing, and Full Stack Development.
@@ -20,15 +18,11 @@ Currently focused on:
 - Scalable ML Pipelines  
 - Web Development & Cloud Infrastructure  
 
----
-
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,react,tensorflow,flask,git,vscode,aws" />
 </p>
-
----
 
 ## Current Project
 
@@ -42,33 +36,25 @@ Focus areas:
 - Segmentation Optimization  
 - Multi Modal Learning  
 
----
-
 ## Goals
 
 - Build production level ML systems  
 - Contribute to AI open source projects  
 - Master DSA and System Design  
 - Learn advanced backend and DevOps  
-- Explore cybersecurity  
-
----
-
+- Explore cybersecurity
+  
 ## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tanishhhk&theme=tokyonight" />
 </p>
 
----
-
 ## Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishhhk&theme=github_dark" />
 </p>
-
----
 
 
 ## Let's Connect
